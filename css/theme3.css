@@ -3363,6 +3363,7 @@ header#sp3.primary a:hover {
   overflow: hidden;
   padding-top: 0;
   padding-bottom: 0;
+   
 }
 @media (max-width: 991px) {
   .halfarea {
@@ -4756,7 +4757,7 @@ footer#smart .foot-title {
   }
 }
 footer#smart p {
-  font-size: 13px;
+  font-size: 20px;
   color: #868A90;
 }
 footer#smart a {
@@ -4773,9 +4774,7 @@ footer#smart hr {
   border-color: rgba(0, 0, 0, 0.1);
   margin: 50px 0 13px;
 }
-footer#smart .social {
-  padding: 15px 0 10px;
-}
+
 footer#smart .social i {
   font-size: 20px;
   margin: 0 5px;
