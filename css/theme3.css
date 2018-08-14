@@ -222,7 +222,7 @@ footer.no-pad {
 }
 
 .row {
-  padding-bottom: 30px;
+  padding-bottom: 5px;
 }
 .row:last-child {
   padding-bottom: 0;
@@ -4750,6 +4750,7 @@ footer#smart form .note {
 }
 footer#smart .foot-title {
   margin-top: 7px;
+  margin-left:-70px;
 }
 @media (max-width: 991px) {
   footer#smart .foot-title {
@@ -5566,4 +5567,4 @@ a.btn2.alt:hover span {
 
 .primary {
   color: #5B70C0;
-}         
+} 
