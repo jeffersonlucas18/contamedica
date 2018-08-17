@@ -870,9 +870,8 @@ ul.list2 li {
   margin: 10px 0;
   font-family: "Lato", sans-serif;
   color: #868A90;
-  font-style: italic;
-  font-size: 15px;
-  color: #0197d6;
+  font-size: 20px;
+  color:#0c9ac8;
 }
 ul.list2 li::before {
   content: "\f3fe";
