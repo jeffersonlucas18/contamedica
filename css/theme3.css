@@ -5565,4 +5565,16 @@ a.btn2.alt:hover span {
 
 .primary {
   color: #5B70C0;
-}         
+} 
+/*-------------------------------
+ Otimização Imgens em mobile
+ -------------------------------*/
+ @media only screen and (max-width: 600px){
+   img.show{ 
+     width: 800px;
+     height: auto;
+     
+
+   }
+ }
+ 
