@@ -3742,7 +3742,8 @@ header#sp3.primary a:hover {
 }
 .social-strip .twitter,
 .social-strip .googleplus,
-.social-strip .instagram {
+.social-strip .instagram,
+.social-strip .facebook {
   border-right: 1px solid #E9ECEF;
 }
 .social-strip a {
@@ -5327,7 +5328,7 @@ a.btn1 {
   position: relative;
   border-radius: 4px;
   padding: 8px 20px 9px;
-  background: none;
+  background: #fff;
   text-decoration: none;
   margin-left: 15px;
   -webkit-transition: all 200ms cubic-bezier(0.694, 0.0482, 0.335, 1);
@@ -5383,9 +5384,16 @@ a.btn1:hover::after {
     opacity: 1;
   }
   a.btn1 span {
-    color:#20a2af;
+    color:#20a2af !important;
   }
 }
+
+  @media (max-width: 350px) {
+    a.btn1{
+      position: relative;
+      bottom: 22px;
+    }
+  }
 
 .headroom--top a.btn1.white {
   border-color: white;
