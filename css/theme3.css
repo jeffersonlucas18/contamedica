@@ -2158,11 +2158,7 @@ header#app1 .phone img {
   max-height: 100vh;
   display: inline-block;
 }
-@media (max-width: 991px) {
-  header#app1 {
-    height: auto;
-   
-  }
+
 }
 header#app1 h5 {
   color: #5B70C0;
