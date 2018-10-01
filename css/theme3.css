@@ -2020,7 +2020,7 @@ body.menu-open .minimal .nav-content::webkit-scrollbar {
 .header-in {
   display: table;
   width: 100%;
-  height: 100vh;
+  height: auto;
 }
 
 .arrow {
