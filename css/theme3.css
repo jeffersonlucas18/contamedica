@@ -2020,7 +2020,7 @@ body.menu-open .minimal .nav-content::webkit-scrollbar {
 .header-in {
   display: table;
   width: 100%;
-  height: auto;
+  height: 100vh;
 }
 
 .arrow {
@@ -2144,7 +2144,7 @@ header#creative .slide__title img {
 
 header#app1 {
   width: 100%;
-  height: 100vh;
+  height: auto;
   min-height: 600px;
   display: block;
   position: relative;
