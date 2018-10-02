@@ -5578,4 +5578,7 @@ a.btn2.alt:hover span {
 
    }
  }
- 
+ ul.list-1-footer{
+  list-style-type:none;
+  padding: 0;
+ }
