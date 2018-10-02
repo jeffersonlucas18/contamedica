@@ -2159,7 +2159,7 @@ header#app1 .phone img {
   display: inline-block;
 }
 
-}
+
 header#app1 h5 {
   color: #5B70C0;
 }
@@ -2366,7 +2366,6 @@ header#software .caption-holder {
 header#software .caption {
   padding: 111px 20px 0;
   display: block;
-  vertical-align: middle;
   position: relative;
 }
 @media (max-width: 767px) {
@@ -3409,7 +3408,6 @@ header#sp3.primary a:hover {
   top: 50%;
   min-width: 100%;
   min-height: 100%;
-  -webkit-transform: translateY(-50%) translateX(-50%);
 }
 @media (max-width: 767px) {
   .halfarea .imagearea img.imagearea-img {
